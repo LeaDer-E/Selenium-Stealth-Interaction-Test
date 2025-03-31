@@ -29,7 +29,7 @@ pip install undetected-chromedriver selenium
 
 1. **Clone or download this repository.**
 2. **Run the script:**  
-   Execute the Python file (e.g., `python your_script.py`).  
+   Execute the Python file (e.g., `python3 RUN_ME.py`).  
    The script will open a browser window, navigate to the detection site ([https://hmaker.github.io/selenium-detector/](https://hmaker.github.io/selenium-detector/)), simulate human input for the token values, click the "Interaction Test" button, and finally print the detection result to the console.
 
 3. **Observe the result:**  
